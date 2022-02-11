@@ -1,2 +1,1 @@
-# C-Sharp---Patika
-C# - Patika practices
+# C-Sharp---Patika Practices
